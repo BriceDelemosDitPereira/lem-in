@@ -1,6 +1,6 @@
 # lem-in
 
-## Objectives
+## Objective
 
 The objective of this project is to create a digital version of an ant farm in Go. The program, `lem-in`, reads from a file describing the ants and the colony provided as arguments. It then finds the quickest path for the ants to traverse the colony and displays the process of each move they make from room to room.
 
